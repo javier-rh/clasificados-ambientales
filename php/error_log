@@ -1,0 +1,2 @@
+[01-Oct-2018 11:49:32 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/clasifi6/public_html/includes/mail/phpmailer/PHPMailerAutoload.php on line 45
+[02-Oct-2018 13:22:14 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/clasifi6/public_html/includes/mail/phpmailer/PHPMailerAutoload.php on line 45

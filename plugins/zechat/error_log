@@ -1,0 +1,10 @@
+[01-Oct-2018 11:35:20 America/Mexico_City] PHP Notice:  Undefined index: Ricardosando in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 440
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: picname in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 366
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: picname2 in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 367
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: sespic in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 368
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: status in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 369
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: msgtime in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 371
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: picname in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 384
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: picname2 in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 385
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: sespic in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 386
+[02-Oct-2018 10:05:17 America/Mexico_City] PHP Notice:  Undefined variable: status in /home/clasifi6/public_html/plugins/zechat/e08twa9zv4.php on line 387

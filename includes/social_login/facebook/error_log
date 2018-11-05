@@ -1,0 +1,38 @@
+[11-Sep-2018 10:28:30 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Required "app_id" key not supplied in config and could not find fallback environment variable "FACEBOOK_APP_ID"' in /home/clasifi6/public_html/includes/social_login/facebook/facebook-php-sdk/Facebook.php:133
+Stack trace:
+#0 /home/clasifi6/public_html/includes/social_login/facebook/fbConfig.php(29): Facebook\Facebook->__construct(Array)
+#1 /home/clasifi6/public_html/includes/social_login/facebook/index.php(7): require_once('/home/clasifi6/...')
+#2 {main}
+  thrown in /home/clasifi6/public_html/includes/social_login/facebook/facebook-php-sdk/Facebook.php on line 133
+[24-Sep-2018 19:54:09 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 62
+[24-Sep-2018 19:54:09 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 64
+[24-Sep-2018 19:54:11 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 62
+[24-Sep-2018 19:54:11 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 64
+[24-Sep-2018 19:54:11 America/Mexico_City] PHP Notice:  Undefined index: picture in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 129
+[24-Sep-2018 19:54:11 America/Mexico_City] PHP Notice:  Undefined index: first_name in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 133
+[24-Sep-2018 19:54:11 America/Mexico_City] PHP Notice:  Undefined index: last_name in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 133
+[24-Sep-2018 19:54:11 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 135
+[24-Sep-2018 19:54:11 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 137
+[02-Oct-2018 13:06:38 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 62
+[02-Oct-2018 13:06:38 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 64
+[02-Oct-2018 13:06:40 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 62
+[02-Oct-2018 13:06:40 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 64
+[02-Oct-2018 13:06:40 America/Mexico_City] PHP Notice:  Undefined index: picture in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 129
+[02-Oct-2018 13:06:40 America/Mexico_City] PHP Notice:  Undefined index: first_name in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 133
+[02-Oct-2018 13:06:40 America/Mexico_City] PHP Notice:  Undefined index: last_name in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 133
+[02-Oct-2018 13:06:40 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 135
+[02-Oct-2018 13:06:40 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 137
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 62
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 64
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: picture in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 129
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: first_name in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 133
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: last_name in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 133
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 135
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 137
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 62
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 64
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: picture in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 129
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: first_name in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 133
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: last_name in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 133
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: gender in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 135
+[03-Oct-2018 12:53:16 America/Mexico_City] PHP Notice:  Undefined index: link in /home/clasifi6/public_html/includes/social_login/facebook/index.php on line 137

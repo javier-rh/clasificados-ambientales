@@ -1,0 +1,27 @@
+RewriteEngine On
+
+#RewriteCond %{HTTPS} off
+#RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+#RewriteCond %{HTTP_HOST} !^www\.
+#RewriteRule .* http://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+Options +FollowSymLinks
+Options -Indexes
+
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule . index.php [L,QSA]
+
+RewriteCond %{SERVER_PORT} 80 
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ https://www.clasificadosambientales.com/$1 [R,L]
+
+<ifModule mod_headers.c>
+  Header set Access-Control-Allow-Origin: *
+</ifModule>

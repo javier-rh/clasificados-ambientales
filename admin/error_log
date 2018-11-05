@@ -1,0 +1,51 @@
+[02-Oct-2018 11:51:47 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[02-Oct-2018 11:51:47 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Oct-2018 11:51:47 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Oct-2018 18:15:16 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[02-Oct-2018 18:15:16 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Oct-2018 18:15:16 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Oct-2018 18:28:00 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[02-Oct-2018 18:28:00 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Oct-2018 18:28:00 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Oct-2018 18:29:42 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[02-Oct-2018 18:29:42 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Oct-2018 18:29:42 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Oct-2018 18:30:06 America/Mexico_City] PHP Warning:  Use of undefined constant SITEURL - assumed 'SITEURL' (this will throw an Error in a future version of PHP) in /home/clasifi6/public_html/admin/email-template.php on line 27
+[03-Oct-2018 12:39:23 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[03-Oct-2018 12:39:23 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[03-Oct-2018 12:39:23 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[04-Oct-2018 08:44:00 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[04-Oct-2018 08:44:00 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[04-Oct-2018 08:44:00 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[04-Oct-2018 08:52:55 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[04-Oct-2018 08:52:55 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[04-Oct-2018 08:52:55 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[04-Oct-2018 13:08:13 America/Mexico_City] PHP Warning:  Use of undefined constant SITEURL - assumed 'SITEURL' (this will throw an Error in a future version of PHP) in /home/clasifi6/public_html/admin/email-template.php on line 27
+[04-Oct-2018 13:13:50 America/Mexico_City] PHP Warning:  Use of undefined constant SITEURL - assumed 'SITEURL' (this will throw an Error in a future version of PHP) in /home/clasifi6/public_html/admin/email-template.php on line 27
+[04-Oct-2018 13:17:27 America/Mexico_City] PHP Warning:  Use of undefined constant SITEURL - assumed 'SITEURL' (this will throw an Error in a future version of PHP) in /home/clasifi6/public_html/admin/email-template.php on line 27
+[04-Oct-2018 13:19:43 America/Mexico_City] PHP Warning:  Use of undefined constant SITEURL - assumed 'SITEURL' (this will throw an Error in a future version of PHP) in /home/clasifi6/public_html/admin/email-template.php on line 27
+[04-Oct-2018 13:27:27 America/Mexico_City] PHP Warning:  Use of undefined constant SITEURL - assumed 'SITEURL' (this will throw an Error in a future version of PHP) in /home/clasifi6/public_html/admin/email-template.php on line 27
+[04-Oct-2018 15:15:31 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[04-Oct-2018 15:15:31 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[04-Oct-2018 15:15:31 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[21-Oct-2018 17:40:00 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[21-Oct-2018 17:40:00 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[21-Oct-2018 17:40:00 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[21-Oct-2018 17:40:05 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[21-Oct-2018 17:40:05 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[21-Oct-2018 17:40:05 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[30-Oct-2018 08:34:33 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[30-Oct-2018 08:34:33 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[30-Oct-2018 08:34:33 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Nov-2018 10:11:14 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[02-Nov-2018 10:11:14 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Nov-2018 10:11:14 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Nov-2018 10:35:03 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[02-Nov-2018 10:35:03 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Nov-2018 10:35:03 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Nov-2018 12:23:25 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[02-Nov-2018 12:23:25 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[02-Nov-2018 12:23:25 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267
+[05-Nov-2018 08:30:05 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 266
+[05-Nov-2018 08:30:05 America/Mexico_City] PHP Notice:  Undefined variable: sesuserpic in /home/clasifi6/public_html/admin/header.php on line 267
+[05-Nov-2018 08:30:05 America/Mexico_City] PHP Notice:  Undefined variable: adminname in /home/clasifi6/public_html/admin/header.php on line 267

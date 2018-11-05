@@ -1,0 +1,15 @@
+[26-Feb-2018 21:47:49 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/edittestimony.php on line 24
+[12-Mar-2018 15:29:33 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/editclient.php on line 15
+[12-Mar-2018 15:29:58 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/editclient.php on line 15
+[12-Mar-2018 15:30:14 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/editclient.php on line 15
+[12-Mar-2018 15:30:24 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/editclient.php on line 15
+[12-Mar-2018 15:34:23 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/editfreelancer.php on line 15
+[12-Mar-2018 15:34:40 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/editfreelancer.php on line 15
+[12-Mar-2018 15:34:58 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/editfreelancer.php on line 15
+[12-Mar-2018 15:35:25 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/editfreelancer.php on line 15
+[12-Mar-2018 18:28:48 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/edittestimony.php on line 24
+[12-Mar-2018 18:28:59 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/edittestimony.php on line 24
+[12-Mar-2018 18:29:44 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/edittestimony.php on line 24
+[12-Mar-2018 18:31:32 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/addtestimony.php on line 27
+[12-Mar-2018 18:31:32 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/addtestimony.php on line 28
+[12-Mar-2018 18:35:09 America/Chicago] PHP Notice:  Undefined index: photoimg in /home/clasifi6/public_html/Admin/template/requests/edittestimony.php on line 24
